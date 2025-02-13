@@ -115,7 +115,7 @@ h1 {
     text-align: center;
     font-weight: 50;
     animation: palpitation 2s ease-in-out infinite;
-    line-height: 4rem;
+    line-height: 1rem;
 
   }
 }
