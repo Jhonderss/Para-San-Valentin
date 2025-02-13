@@ -101,7 +101,7 @@ h1 {
   background-position: 50% center;
   text-align: center;
   font-weight: 50;
-  animation: palpitation 10s ease-in-out infinite;
+  animation: palpitation 100s ease-in-out infinite;
   line-height: 0.5rem;
 
   /* display: flex; */
